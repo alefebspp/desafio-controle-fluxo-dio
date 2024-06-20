@@ -1,0 +1,1 @@
+Aplicação via terminal proposta como um desafio no bootcamp de Java da Dio. O usuário deve digitar dois números e a diferença entre o segundo e o primeiro será a quantidade de vezes que será imprimida no console.
